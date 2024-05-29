@@ -1,0 +1,2 @@
+PS D:\AgroLedger-main> truffle migrate --reset
+PS D:\AgroLedger-main\client> npm start
